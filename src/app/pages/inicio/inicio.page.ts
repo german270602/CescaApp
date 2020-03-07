@@ -42,6 +42,11 @@ export class InicioPage implements OnInit {
       icon: 'calendar',
       name: 'DateTime',
       redirecTo: '/date-time'
+    },
+    {
+      icon: 'grid',
+      name: 'Grid - Rows',
+      redirecTo: '/grid'
     }
   ];
 
